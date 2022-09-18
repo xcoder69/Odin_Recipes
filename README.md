@@ -1,4 +1,4 @@
-# Odin_Recipes
+# My Book of Recipes
 All the Delicious and Tasty recipes In one Place
 
 Here are all the things that I've learnt in HTML and are  implemented into a Website.
