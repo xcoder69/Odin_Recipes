@@ -1,0 +1,35 @@
+#main{
+    background-color: blueviolet;
+    border: black 1px solid;
+}
+.all_div{
+    margin: 10px;
+    font-size: 30px; 
+    font-family: cursive;  
+    /*background-color: red; */
+}
+#heading{
+    text-align: center;
+    font-family: comfortaa;
+    border: orange 4px dashed;
+    padding: 20px;
+
+
+}
+#Lists{
+    text-align: center;
+    margin: auto;
+    padding: 50px;
+
+}
+.elements{
+    border: red;
+    border-width: 2px;
+    border-style: dashed;
+
+}
+.elements{
+    padding: 10px 8px;
+    margin: 5px;
+
+}
