@@ -1,35 +1,30 @@
-#main{
-    background-color: blueviolet;
-    border: black 1px solid;
+body{
+    background-color: aquamarine;
 }
-.all_div{
-    margin: 10px;
-    font-size: 30px; 
-    font-family: cursive;  
-    /*background-color: red; */
-}
-#heading{
-    text-align: center;
-    font-family: comfortaa;
-    border: orange 4px dashed;
-    padding: 20px;
-
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: Comfortaa;
+    font-weight: 1500;
+    font-size: x-large;
 
 }
-#Lists{
-    text-align: center;
+h1{
+    display: flex;
+    justify-content: center;
+    
+}
+ul{
+    display: flex;
     margin: auto;
-    padding: 50px;
+    /*border: 2px orange solid;*/
+    flex-direction: column;    
+    justify-content: space-between;
+
 
 }
 .elements{
-    border: red;
-    border-width: 2px;
-    border-style: dashed;
-
-}
-.elements{
-    padding: 10px 8px;
-    margin: 5px;
+    color: darkgray;
 
 }
