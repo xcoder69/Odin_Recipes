@@ -12,19 +12,16 @@ body{
 }
 h1{
     display: flex;
+    color: palevioletred;
     justify-content: center;
     
 }
 ul{
     display: flex;
     margin: auto;
-    /*border: 2px orange solid;*/
     flex-direction: column;    
     justify-content: space-between;
-
-
 }
 .elements{
     color: darkgray;
-
 }
