@@ -4,7 +4,7 @@ body{
 .container{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     font-family: Comfortaa;
     font-weight: 1500;
     font-size: x-large;
@@ -12,6 +12,7 @@ body{
 }
 h1{
     display: flex;
+    flex-direction: row;
     color: palevioletred;
     justify-content: center;
     
@@ -19,9 +20,13 @@ h1{
 ul{
     display: flex;
     margin: auto;
-    flex-direction: column;    
-    justify-content: space-between;
+    flex-grow: 2;
+    flex-direction: row;
+    gap:200px;
+    justify-content: center;
 }
 .elements{
     color: darkgray;
+    display: flex;
+    justify-content: center;
 }
